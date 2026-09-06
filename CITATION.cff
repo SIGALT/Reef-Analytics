@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Reef Analytics"
+type: software
+version: 0.7.0-alpha
+date-released: 2026-09-05
+authors:
+  - family-names: "Ramírez Chávez"
+    given-names: "Eduardo Juventino"
+license: MIT
+repository-code: "ADD_GITHUB_REPOSITORY_URL_HERE"
+url: "ADD_PROJECT_URL_HERE"
+abstract: >
+  Reef Analytics is an interactive research prototype for synthetic 3D coral
+  colony generation, morphometric exploration, structural complexity analysis,
+  and T0-T1 comparison.
+keywords:
+  - coral reefs
+  - coral morphology
+  - 3D models
+  - fractal dimension
+  - structural complexity
+  - shelter volume
+  - marine ecology

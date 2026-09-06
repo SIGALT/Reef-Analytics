@@ -1,0 +1,21 @@
+{
+  "name": "Reef Analytics",
+  "short_name": "Reef Analytics",
+  "description": "Modelo geométrico 3D y métricas de complejidad estructural coralina.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef3f5",
+  "theme_color": "#315e6d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
