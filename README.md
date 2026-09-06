@@ -67,6 +67,12 @@ This repository can be deployed directly to Netlify, GitHub Pages, Vercel, or an
 
 See [ROADMAP.md](ROADMAP.md).
 
+## Authors and contributions
+
+Reef Analytics is jointly developed by Eduardo Juventino Ramírez Chávez, Sergio David Guendulain García, and Andrés Ramón López Pérez.
+
+See [AUTHORS.md](AUTHORS.md) for detailed scientific and technical contributions.
+
 ## Citation
 
 See [CITATION.cff](CITATION.cff).
