@@ -1,23 +1,48 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
+message: "If you use Reef Analytics in research, please cite the software using the metadata below."
+
 title: "Reef Analytics"
 type: software
 version: 0.7.0-alpha
 date-released: 2026-09-05
+
 authors:
   - family-names: "Ramírez Chávez"
     given-names: "Eduardo Juventino"
+    orcid: "https://orcid.org/0000-0002-4013-6274"
+
+  - family-names: "Guendulain García"
+    given-names: "Sergio David"
+    orcid: "https://orcid.org/0000-0002-6091-5398"
+
+  - family-names: "López Pérez"
+    given-names: "Andrés Ramón"
+    orcid: "https://orcid.org/0000-0003-1246-7401"
+
 license: MIT
-repository-code: "ADD_GITHUB_REPOSITORY_URL_HERE"
-url: "ADD_PROJECT_URL_HERE"
+
+repository-code: "https://github.com/SIGALT/Reef-Analytics"
+url: "https://sigalt.github.io/Reef-Analytics/"
+
 abstract: >
-  Reef Analytics is an interactive research prototype for synthetic 3D coral
-  colony generation, morphometric exploration, structural complexity analysis,
-  and T0-T1 comparison.
+  Reef Analytics is an open scientific software platform for exploring,
+  quantifying, and comparing coral colony architecture and three-dimensional
+  structural complexity. The current alpha version integrates synthetic coral
+  geometry, interactive 3D visualization, morphometric metrics, three-dimensional
+  fractal dimension estimation, surface area, colony volume, projected area,
+  colony height, shelter volume, and T0-T1 comparisons. The project is being
+  developed toward the integration and analysis of empirical 3D coral models
+  derived from photogrammetry, scanning, and other three-dimensional
+  reconstruction techniques.
+
 keywords:
   - coral reefs
   - coral morphology
+  - coral architecture
   - 3D models
+  - photogrammetry
+  - structure from motion
+  - Gaussian splatting
   - fractal dimension
   - structural complexity
   - shelter volume
